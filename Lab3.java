@@ -8,7 +8,7 @@ public class Lab3
         // various grade variables are declared as double
         double homeWork = 0; 
         double midTerm = 0; 
-        double finaExam = 0; 
+        double finalExam = 0; 
         double weighted_Total = 0;
         int i = 0;
         // loop for inputing each grade
